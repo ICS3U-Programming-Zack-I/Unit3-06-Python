@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-
-# Created by: Mr. Coxall
-# Created on: Sep 2019
+# Created by: Zack Isingoma
+# Created on: 15th,december 2021.
 # This program uses a try statement
 
 import random
